@@ -1,14 +1,15 @@
 # Finance-Tracker-Python-MiniProject
 Managing personal finances and tracking expenses are essential tasks for
 individuals and households to maintain financial stability and make informed financial
-decisions. Our project i.e. ”Expense Tracker" is a user-friendly and intuitive software
+decisions.
+ Our project i.e. ”Expense Tracker" is a user-friendly and intuitive software
 solution designed to simplify expense management and provide insights into spending
 patterns.
 The project comprises a user interface developed using the Tkinter library in Python.
 It offers multiple features, including expense entry, categorization, and visualization tools.
 Users can input their daily expenses, categorize them under predefined categories, and
 view a summary of their financial transactions with the specific dates the expense was
-added on. Apart from thta, it includes a graphical representation of their spendings at a
+added on. Apart from that, it includes a graphical representation of their spendings at a
 glance with the help of pie chart and line graph displayed category-wise and Date-wise
 respectively. The expenses added by the user will also be saved on their device in the form
 of a csv file. It also includes a feature to track expenses made on behalf of friends or group
